@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="150" viewBox="0 0 150 150" fill="none">
+  <!-- Outer Circle -->
+  <circle cx="75" cy="75" r="70" stroke="#FFF" stroke-width="6" fill="#808080"/>
+  <!-- Letter B -->
+  <text x="50%" y="55%" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-size="80" font-weight="bold" fill="#FFF">
+    B
+  </text>
+</svg>
