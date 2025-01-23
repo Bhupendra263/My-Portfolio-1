@@ -50,7 +50,7 @@ const services = [
     icon: mobile,
   },
   {
-    title: "Problem Solving ",
+    title: "Problem Solving(Java) ",
     icon: backend,
   },
   {
@@ -247,7 +247,7 @@ const projects = [
     ],
     image: jobit,
     source_code_link: "https://github.com/Bhupendra263/",
-    live_demo_link: "https://8c9b5xp9-3000.inc1.devtunnels.ms/",
+    live_demo_link: "",
   },
   {
     name: "Job Portal System -> Opportunity Sphere",
@@ -273,7 +273,7 @@ const projects = [
     ],
     image: tripguide,
     source_code_link: "https://github.com/Bhupendra263/",
-    live_demo_link: "https://username.github.io/portfolio",
+    live_demo_link: "https://job-portal-frontend-azure.vercel.app/",
   },
   
 ];
